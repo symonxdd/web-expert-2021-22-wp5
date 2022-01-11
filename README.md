@@ -8,7 +8,7 @@
   <br>
 </p>
 
-## Prerequisite
+## Prerequisites
 - [Node.js](https://nodejs.org/en/)
 - [MongoDB](https://www.mongodb.com/try/download/community)
 
